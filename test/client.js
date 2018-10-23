@@ -21,7 +21,7 @@ var Bitcore_ = {
 };
 
 
-var BitcorePayPro = require('bitcore-payment-protocol');
+var BitcorePayPro = require('bitcore-payment-protocol-anon');
 
 var BWS = require('bitcore-wallet-service-anon');
 
